@@ -1,0 +1,10 @@
+You have already submitted a problem statement for Assignment 1 (stage 1). This assignment will have 2 more stages:
+
+Stage 2: Develop your tentative problem statement into a detailed statement (1-2 pages) specifying what will be the inputs, outputs, possible data sources (if relevant) and algorithm (if applicable).
+Deadline: 1 Nov
+
+Stage 3: Next you have two choices
+i) You may make a detailed literature survey for your proposed problem. For this you can go over various research papers (5-10) related to the problem and make a report (2-4 pages) based on them.
+ii) You may grab any dataset (related to your problem) of your choice from any online source, run any suitable algorithm on it, and make a basic analysis with relevant plots/tables.
+Deadline: 18 Nov
+
